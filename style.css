@@ -1,0 +1,36 @@
+h1{
+    background-color :#84cc16;
+    padding:1rem;
+    text-align:center;
+    font-size:xx-large;
+    font-style:italic;
+    color:#1e40af;
+}
+#btn-translate{
+    margin: 1rem;
+    border: 2px solid black;
+    padding: 0.5rem;
+    background-color: #003399;
+    color: white;
+    font-weight: bold;
+}
+#btn-translate:hover{
+    background-color:yellow;
+    color:brown;
+
+}
+.container{
+    text-align: center;
+    margin: auto;
+    background-color:#fcd34d;
+    
+}
+footer{
+    margin: 1rem;
+    border: 2px green;
+    text-align:center;
+    padding: 1rem;
+    background-color:#f87171;
+    color: white;
+    font-weight: bold;
+}
